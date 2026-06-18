@@ -76,3 +76,14 @@ Swiggy-Restaurant-Success-Intelligence/
 2. Download dataset from Kaggle (link above)
 3. Run `Swiggy_Analysis.ipynb` in Jupyter Notebook
 4. Open `Swiggy_Dashboard.pbix` in Power BI Desktop
+### Dashboard Screenshots
+
+#### Page 1 — National Overview
+Sheet 1
+
+#### Page 2 — Success Drivers
+Sheet 2
+
+#### Page 3 — Market Opportunity
+Sheet 3
+
